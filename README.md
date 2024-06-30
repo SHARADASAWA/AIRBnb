@@ -34,10 +34,9 @@ The backend folder contains the Node.js and Express application:
 -   server.js - Entry point
 
 ## Screenshots
-![Alt text](https://github.com/SHARADASAWA/AirBnB-Clone/blob/main/WhatsApp%20Image%202024-06-30%20at%208.12.09%20PM.jpeg)
-![Alt text](https://github.com/SHARADASAWA/AirBnB-Clone/blob/main/WhatsApp%20Image%202024-06-30%20at%208.12.45%20PM.jpeg)
-![Alt text](https://github.com/SHARADASAWA/AirBnB-Clone/blob/main/WhatsApp%20Image%202024-06-30%20at%208.13.05%20PM.jpeg)
-![Alt text](https://github.com/SHARADASAWA/AirBnB-Clone/blob/main/WhatsApp%20Image%202024-06-30%20at%208.13.54%20PM.jpeg)
+![Alt text](https://github.com/SHARADASAWA/AirBnB-Clone/blob/main/WhatsApp%20Image%202024-06-30%20at%208.12.09%20PM.jpeg)![Alt text](https://github.com/SHARADASAWA/AirBnB-Clone/blob/main/WhatsApp%20Image%202024-06-30%20at%208.12.45%20PM.jpeg)
+![Alt text](https://github.com/SHARADASAWA/AirBnB-Clone/blob/main/WhatsApp%20Image%202024-06-30%20at%208.13.05%20PM.jpeg)![Alt text](https://github.com/SHARADASAWA/AirBnB-Clone/blob/main/WhatsApp%20Image%202024-06-30%20at%208.13.54%20PM.jpeg)
+
 
 
 ## Getting Started
