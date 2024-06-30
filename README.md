@@ -49,28 +49,28 @@ The backend folder contains the Node.js and Express application:
 
 1. *Clone the repository:*
 
-   bash
+   ```bash
    git clone "url"
    cd frontend
 2. **Install Dependencies:**
 
-   bash
+   ```bash
 	npm install
 3. *Run the react app:*
 
-   bash
+   ```bash
 	npm run dev
 4. **Run the backend:**
 
-   bash
+   ```bash
 	cd backend
 	npm install
 5. *Create .env*
 	In .env add your mongodb atlas uri 
 	ex:
-	  bash
+	  ```bash
 	MONGO_URI = "your uri"
 6. **Run the backend:**
 
-   bash
+   ```bash
 	node server.js
