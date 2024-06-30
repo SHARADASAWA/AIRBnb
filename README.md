@@ -1,5 +1,5 @@
 # Airbnb Clone README
-
+link:https://airbnb-clone-rust-eta.vercel.app/
 ## Project Overview
 
 This project is an Airbnb clone with a modern design and essential features for booking accommodations. The project is structured into two main folders: frontend and backend. The frontend is built with React using Vite, and the backend uses Node.js, Express, and MongoDB Atlas for the database.
@@ -10,7 +10,7 @@ This project is an Airbnb clone with a modern design and essential features for 
 - *Responsive Design*: The frontend features a modern and responsive design.
 - *Dynamic Data Rendering*: Listings are dynamically fetched and rendered from the database.
 - *Booking Management*: Users can view available dates and make bookings.
-## Project Structure
+
 
 ### Frontend
 
