@@ -34,6 +34,7 @@ The backend folder contains the Node.js and Express application:
 -   server.js - Entry point
 
 ## Screenshots
+![Alt text](WhatsApp Image 2024-06-30 at 8.12.09 PM.jpeg)
 
 (Include some screenshots of your application here)
 
