@@ -34,9 +34,9 @@ The backend folder contains the Node.js and Express application:
 -   server.js - Entry point
 
 ## Screenshots
-![Alt text](WhatsApp Image 2024-06-30 at 8.12.09 PM.jpeg)
+![Alt text](https://github.com/SHARADASAWA/AirBnB-Clone/blob/main/WhatsApp%20Image%202024-06-30%20at%208.12.09%20PM.jpeg)
 
-(Include some screenshots of your application here)
+
 
 ## Getting Started
 
